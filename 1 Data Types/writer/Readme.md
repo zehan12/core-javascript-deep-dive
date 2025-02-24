@@ -56,7 +56,7 @@ a = "abc"; // Assigning a string value to 'a'
 ```
 However, **the actual value is not stored directly in the variable's memory location**.
 
-![](../../images/data-types-fig-1.png)
+![](../../images/figure-1.png)
 
 ### Memory Allocation Process
 1. The system finds an empty space in the **variable memory region** (e.g., `@1002`).
